@@ -1,3 +1,3 @@
 # ts-micro
 
-A Light Template for Developing Node Microservices on a Serverless Fashion. 🚀
+A Lightweight Template for Developing Node Microservices with a Serverless Fashion. 🚀
